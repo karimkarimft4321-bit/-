@@ -1,0 +1,6 @@
+{
+  "name": "LF2D - Little Fighter 2D",
+  "description": "An action-packed 2.5D retro arcade fighting game inspired by Little Fighter 2, featuring martial arts combos, elemental powers, stage battles, and versus mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
